@@ -37,7 +37,7 @@ int main()
     list.print();
 
     vec.insert(20, vec.size() / 2);
-    list.insert(20, list.size() / 2); //исправить
+    list.insert(20, list.size() / 2);
     vec.print();
     list.print();
 
